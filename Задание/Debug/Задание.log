@@ -1,0 +1,8 @@
+﻿  Задание.cpp
+D:\Programs\MVS Files\Project\Лабораторная работа 4\Задание\Задание.cpp(42,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\Programs\MVS Files\Project\Лабораторная работа 4\Задание\Задание.cpp(47,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\Programs\MVS Files\Project\Лабораторная работа 4\Задание\Задание.cpp(61,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\Programs\MVS Files\Project\Лабораторная работа 4\Задание\Задание.cpp(66,25): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Programs\MVS Files\Project\Лабораторная работа 4\Задание\Задание.cpp(67,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Programs\MVS Files\Project\Лабораторная работа 4\Задание\Задание.cpp(68,11): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Задание.vcxproj -> D:\Programs\MVS Files\Project\Лабораторная работа 4\Debug\Задание.exe
